@@ -1,8 +1,11 @@
 Midterm Submission
 Summer of Code
 
-Atharva Tiwari
+name : Atharva Tiwari
+
 Building Chatgpt from scratch
+
+the following is the list of things I have learnt upto now,
 
 necessary DS tools
 
